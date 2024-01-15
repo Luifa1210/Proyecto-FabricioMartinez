@@ -4,7 +4,7 @@ const Section = () => {
   return (
     <>
       <section className="comics">
-        <h2>Comics</h2>
+        <h2>Comics del hombre araña</h2>
         <CardsContainer />
       </section>
 
